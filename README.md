@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi I'm Inayat<br>👀 I am currently working on Transformers<br>🌱 I am interested in Reinforcement Learning and Data Science<br>💞️ I am looking to collaborate on Natural Language Processing Projects<br>📫 Reach me at: anayatalifw@gmail.com
+<br>👋 Hi I'm Inayat<br>👀 I am currently working on Transformers<br>🌱 I am interested in Reinforcement Learning and Data Science<br>📫 Reach me at: anayatalifw@gmail.com
 
 
 ## 🌐 Socials:
