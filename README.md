@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi I'm Inayat<br>👀 I am currently working on Transformers<br>🌱 I am interested in Reinforcement Learning and Data Science<br>📫 Reach me at: anayatalifw@gmail.com
+<br>👋 Hi I'm Inayat<br>👀 I am currently working on my thesis on medical diagnosis<br>🌱 I am interested in Reinforcement Learning and Data Science<br>📫 Reach me at: anayatalifw@gmail.com
 
 
 ## 🌐 Socials:
@@ -10,6 +10,7 @@
 
 ## Interesting Wikipedia articles:
   1. https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science
+  2. https://en.wikipedia.org/wiki/P_versus_NP_problem
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=s1ashd0t&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
