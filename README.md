@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi I'm Inayat<br>👀 I am currently working on my thesis on medical diagnosis<br>🌱 I am interested in Recursive self-improvement<br>📫 Reach me at: anayatalifw@gmail.com
+<br>👋 Hi I'm Anayat<br>🎓 MS in Computer Science (Thesis) from Purdue University Fort Wayne, GPA 3.83, minor in Machine Learning<br> 💼 Senior IT Support Assistant at Purdue IT <br>🌱 I am interested in Recursive self-improvement, computer vision, and NLP<br> 🔭 Open to full time SWE / ML roles📫 Reach me at: anayatalifw@gmail.com
 
 
 ## 🌐 Socials:
